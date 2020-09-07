@@ -81,12 +81,12 @@ body{
 
 .gallery img{
     transition: 1s;
-    padding: 15px;
-    width: 200px;
+    padding: 30px;
+    width: 500px;
 }
 
 .gallery img:hover {
-    filter: grayscale(100%);
+    filter: grayscale(10%);
     transform: scale(1.1);
 }
 #main-footer{
