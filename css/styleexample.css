@@ -93,6 +93,18 @@ body{
 .code{
 	padding: 30px;
 }
+
+#scicalc{
+	float: left;
+	padding:0 30px;
+	box-sizing: border-box;
+}
+
+#scram{
+	float: left;
+	padding:0 30px;
+	box-sizing: border-box;
+}
 #main-footer{
 	background: #333;
 	color:#fff;
