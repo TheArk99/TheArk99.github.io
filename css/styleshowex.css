@@ -39,6 +39,27 @@ body{
 	padding-right:15px;
 }
 
+#navbar2{
+	background-color: rgba(204, 205, 218, 0.719);
+	color:#fff;
+}
+
+#navbar2 ul{
+	padding: 0;
+	list-style: none;
+}
+
+#navbar2 li{
+	display:inline;
+}
+
+#navbar2 a{
+	color:rgb(0, 0, 0);
+	text-decoration: none;
+	font-size: 18px;
+	padding-right:15px;
+}
+
 
 #main{
 	float: left;

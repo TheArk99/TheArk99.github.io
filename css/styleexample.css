@@ -90,7 +90,11 @@ body{
     transform: scale(1.1);
 }
 
-.code{
+#code{
+	padding: 30px;
+}
+
+#code2{
 	padding: 30px;
 }
 
@@ -105,6 +109,18 @@ body{
 	padding:0 30px;
 	box-sizing: border-box;
 }
+
+#MyDIV{
+
+}
+
+#MyDIV2{
+	float: left;
+	padding: 0 30px;
+	filter: grayscale(50%);
+	font: Arial;
+}
+
 #main-footer{
 	background: #333;
 	color:#fff;
